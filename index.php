@@ -15,7 +15,7 @@
         $i = true; 
         echo $i;
         echo "<h1>Ola Mundo</h1>"; //este é um comentário de uma linha
-
+         
         $nome = "Rodrigo";
         echo "<table border =1>";  
         echo "<tr><td>1</td></tr>
